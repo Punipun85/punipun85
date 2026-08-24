@@ -1,10 +1,11 @@
+````markdown
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 # 👋 Hi, I'm Punipun85
 
-## 💻 Informatics Student | Full Stack Developer | AI Enthusiast
+### 💻 Informatics Student | Full Stack Developer | AI Enthusiast
 
 Building modern applications, automation systems,
 and AI-powered solutions.
@@ -37,7 +38,6 @@ My interests:
 - ⚙️ Software Engineering
 - ☁️ Cloud & Database Systems
 
-
 I enjoy transforming ideas into functional,
 scalable, and user-friendly applications.
 
@@ -45,7 +45,6 @@ scalable, and user-friendly applications.
 ---
 
 # 🧑‍💻 What I Do
-
 
 ```text
 💡 Problem Solving
@@ -65,7 +64,6 @@ Currently working on:
 📅 AI Campus Scheduler
 💰 Digital UMKM Management System
 📈 Stock Prediction Bot
-
 🛠 Tech Stack
 🎨 Frontend Development
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter"/> </p>
@@ -75,7 +73,7 @@ Currently working on:
 Backend technologies:
 
 Laravel Framework
-JavaScript Runtime (Node.js)
+JavaScript / Node.js
 Python Backend Development
 REST API Development
 🗄 Database & Storage
@@ -159,7 +157,7 @@ Python Telegram API Machine Learning
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punipun85&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-🔥 Contribution
+🔥 Contribution Streak
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Punipun85&theme=tokyonight&hide_border=true"/> </div>
 🌱 Currently Learning
 AI Engineering:
@@ -172,10 +170,10 @@ Software Engineering:
   - Cloud Computing
   - Clean Code
 🎯 Goals
-Build impactful software products
-Improve system architecture skills
-Explore AI-powered applications
-Contribute to open source projects
+🚀 Build impactful software products
+🏗 Improve system architecture skills
+🤖 Explore AI-powered applications
+🌎 Contribute to open source projects
 📫 Connect With Me
 <div align="center"> <a href="https://github.com/Punipun85"> <img src="https://img.shields.io/badge/GitHub-Punipun85-black?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"> </a> </div>
 <div align="center">
@@ -183,5 +181,4 @@ Contribute to open source projects
 ⭐ Thanks for visiting my profile!
 
 "Build. Learn. Create. Improve."
-
-</div> ```
+</div> ````
