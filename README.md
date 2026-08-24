@@ -1,171 +1,187 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 # 👋 Hi, I'm Punipun85
 
-### 💻 Informatics Student | Full Stack Developer | AI Enthusiast
+## 💻 Informatics Student | Full Stack Developer | AI Enthusiast
 
-Building software that solves real-world problems through technology.
+Building modern applications, automation systems,
+and AI-powered solutions.
 
 <br>
 
-[Portfolio](#) • [LinkedIn](#) • [Email](#)
+<a href="https://github.com/Punipun85?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Portfolio-My_Repositories-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Punipun85">
+<img src="https://img.shields.io/badge/GitHub-Punipun85-black?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Hello! I'm a Computer Science / Informatics student who loves creating
-modern applications, automation systems, and AI-powered solutions.
+Hi! I'm an Informatics student passionate about building
+software solutions that solve real-world problems.
 
-My focus:
+My interests:
 
 - 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence Integration
+- 🤖 Artificial Intelligence
 - 📱 Mobile Application Development
 - ⚙️ Software Engineering
+- ☁️ Cloud & Database Systems
 
 
-Currently building:
-
-- 🎓 Smart Academic Assistant
-- 📅 AI University Scheduler
-- 💰 Digital UMKM Management System
-- 📈 Stock Prediction Bot
+I enjoy transforming ideas into functional,
+scalable, and user-friendly applications.
 
 
 ---
 
-# 🛠 Tech Stack
+# 🧑‍💻 What I Do
 
 
-### Frontend
+```text
+💡 Problem Solving
+        |
+        ↓
+📝 System Design
+        |
+        ↓
+💻 Development
+        |
+        ↓
+🚀 Deployment
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+Currently working on:
 
+🎓 Smart Academic Assistant
+📅 AI Campus Scheduler
+💰 Digital UMKM Management System
+📈 Stock Prediction Bot
 
-### Backend
+🛠 Tech Stack
+🎨 Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter"/> </p>
+⚙️ Backend Development
+<p> <img src="https://skillicons.dev/icons?i=laravel,nodejs,python"/> </p>
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+Backend technologies:
 
+Laravel Framework
+JavaScript Runtime (Node.js)
+Python Backend Development
+REST API Development
+🗄 Database & Storage
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/> </p>
 
-### Database
+Database experience:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+MySQL
+PostgreSQL
+Supabase
+Firebase
+🔧 Tools & Environment
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/> </p>
+⭐ Featured Projects
+🎓 Smart Academic Assistant
 
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
-
-
----
-
-# ⭐ Featured Projects
-
-
-## 🎓 Smart Academic Assistant
-
-AI-powered academic schedule management system.
+AI-powered application for managing university schedules.
 
 Features:
 
-✅ Upload lecture schedule  
-✅ AI schedule extraction  
-✅ Automatic reminders  
-✅ Calendar integration  
+✅ Upload lecture schedule
+✅ Automatic schedule extraction
+✅ Smart reminders
+✅ Daily academic summary
+✅ Calendar integration
 
+Technology:
 
-Tech:
+Next.js Python FastAPI PostgreSQL AI
 
-`Next.js` `FastAPI` `PostgreSQL` `Gemini AI`
+📅 AI Campus Scheduler
 
-
----
-
-## 📅 Campus Scheduler AI
-
-Automatic university timetable generation system.
+An intelligent university timetable management system.
 
 Features:
 
-✅ Conflict detection  
-✅ Room allocation  
-✅ Lecturer scheduling  
-✅ AI recommendation
+✅ Course scheduling
+✅ Lecturer allocation
+✅ Room management
+✅ Conflict detection
+✅ Schedule recommendation
 
+Technology:
 
-Tech:
+Laravel MySQL Python
 
-`Laravel` `MySQL` `Python`
+💰 Digital UMKM Management System
 
-
----
-
-## 💰 UMKM Digital System
-
-A business management platform for small businesses.
+A web-based business management platform.
 
 Features:
 
-✅ Payment management  
-✅ Inventory tracking  
-✅ Reporting dashboard
+✅ Customer management
+✅ Payment system
+✅ Transaction reports
+✅ Inventory management
 
+Technology:
 
-Tech:
+Laravel MySQL Supabase
 
-`Laravel` `MySQL`
+📈 Stock Prediction Bot
 
+Telegram-based stock monitoring assistant.
 
----
+Features:
 
-# 📊 GitHub Analytics
+✅ Stock data monitoring
+✅ Automated notifications
+✅ Market analysis
 
+Technology:
 
+Python Telegram API Machine Learning
+
+📊 GitHub Activity
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Punipun85&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Punipun85&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Punipun85&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punipun85&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+🔥 Contribution
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Punipun85&theme=tokyonight&hide_border=true"/> </div>
+🌱 Currently Learning
+AI Engineering:
+  - Machine Learning
+  - Large Language Model
+  - AI Integration
 
-
----
-
-# 🌱 Currently Learning
-
-- Artificial Intelligence
-- Cloud Computing
-- System Design
-- Software Architecture
-
-
----
-
-# 💡 Developer Philosophy
-
-> "Build things that are useful, scalable, and meaningful."
-
-
----
-
+Software Engineering:
+  - System Architecture
+  - Cloud Computing
+  - Clean Code
+🎯 Goals
+Build impactful software products
+Improve system architecture skills
+Explore AI-powered applications
+Contribute to open source projects
+📫 Connect With Me
+<div align="center"> <a href="https://github.com/Punipun85"> <img src="https://img.shields.io/badge/GitHub-Punipun85-black?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"> </a> </div>
 <div align="center">
 
-### Thanks for visiting my profile 🚀
+⭐ Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories!
+"Build. Learn. Create. Improve."
 
-</div>
+</div> ```
