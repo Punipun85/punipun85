@@ -263,11 +263,11 @@ Machine Learning
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Punipun85&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=Punipun85&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punipun85&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Punipun85&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -275,12 +275,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punipun85&la
 
 ---
 
-# 🔥 Contribution Streak
-
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Punipun85&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Punipun85/Punipun85/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
